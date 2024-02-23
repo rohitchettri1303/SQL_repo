@@ -1,6 +1,6 @@
 # Ad-Hoc-Insights
 
-![logo]()
+![logo](AtliQ_Img.png)
 
 
 Domain : Consumer Goods
